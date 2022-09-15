@@ -1,5 +1,9 @@
 # SchemaComparer.GUI
 
+[toc]
+
+
+
 ## 1. Introduction
 
 **SchemaComparer.GUI.exe** is a windows desktop application. It's designed to help user quickly understand database structure and easily find gaps of 2 databases:
